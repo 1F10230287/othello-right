@@ -115,3 +115,14 @@
   height: 1em;
   margin-left: 0.5rem;
 }
+
+
+.board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 640px;
+  min-height: 640px;
+  padding: 0 0.5rem;
+}
